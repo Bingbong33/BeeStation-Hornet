@@ -12,7 +12,7 @@
 /area/space)
 "D" = (
 /obj/structure/barricade/sandbags,
-/turf/open/floor/plating/asteroid,
+
 /area/space)
 "S" = (
 /turf/open/floor/plating/asteroid,
